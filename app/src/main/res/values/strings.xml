@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Football Score Board</string>
+    <string name="team_a">AC Milan</string>
+    <string name="team_b">FC Munich</string>
+</resources>
